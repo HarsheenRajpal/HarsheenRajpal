@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Harsheen Rajpal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushirajpal" alt="khushirajpal" /></a> </p>
 
 - 🔭 I’m currently working on **Optifood**
 
-- 🌱 I’m currently learning **React with Django Rest Framework**
+- 🌱 I’m currently learning **Django rest framework with react**
 
-- 👯 I’m looking to collaborate on [e-Sim cloud](frg-fossee / eSim-Cloud)
+- 👯 I’m looking to collaborate on [eSim-Cloud](frg-fossee / eSim-Cloud)
 
-- 💬 Ask me about **Django , DSA**
+- 💬 Ask me about **Django, DSA, Javascript and Bootstrap**
 
 - 📫 How to reach me **harsheenk.rajpal@gmail.com**
 
-- ⚡ Fun fact **I look exactly like a developer. Thick glasses, a night owl and running on black coffee**
+- ⚡ Fun fact **I am a night owl who runs on black coffee**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +22,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/khushirajpal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khushirajpal" /></a></p><br><br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushirajpal&show_icons=true&locale=en" alt="khushirajpal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushirajpal&" alt="khushirajpal" /></p>
 
