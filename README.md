@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsheen Rajpal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A full stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushirajpal" alt="khushirajpal" /></a> </p>
 
@@ -22,7 +22,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/khushirajpal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khushirajpal" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushirajpal&show_icons=true&locale=en" alt="khushirajpal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushirajpal&show_icons=true&locale=en&layout=compact" alt="khushirajpal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushirajpal&" alt="khushirajpal" /></p>
-
