@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harsheenk.rajpal@gmail.com**
 
-- ⚡ Fun fact **I am a night owl who runs on black coffee**
+- ⚡ Fun fact **A hyperactive human who runs on caffeine**
 
 
 <h3 align="left">Languages and Tools:</h3>
