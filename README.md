@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsheen Rajpal</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Table Review**
+- 🔭 I’m currently working on **ACE**
 
-- 🌱 I’m currently learning **MERN Staxk**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on [eSim-Cloud](frg-fossee / eSim-Cloud)
 
