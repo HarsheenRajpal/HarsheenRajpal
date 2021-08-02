@@ -3,11 +3,8 @@
 
 - 🔭 I’m currently working on **ACE**
 
-- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on [eSim-Cloud](frg-fossee / eSim-Cloud)
-
-- 💬 Ask me about **Django, DSA, Javascript and Bootstrap**
+- 💬 Ask me about **MERN, Django, DSA, Javascript and Bootstrap**
 
 - 📫 How to reach me **harsheenk.rajpal@gmail.com**
 
