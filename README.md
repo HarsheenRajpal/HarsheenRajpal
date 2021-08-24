@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsheen Rajpal</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-- 🔭 I’m currently working  "as a backend intern"
+- 🔭 I’m currently working  **as a backend intern**
 
 
 - 💬 Ask me about **MERN, Django, DSA, Javascript and Bootstrap**
