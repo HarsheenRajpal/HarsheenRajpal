@@ -4,7 +4,7 @@
 - 🔭 I’m currently working  **as a backend intern**
 
 
-- 💬 Ask me about **MERN, Django, DSA, Javascript and Bootstrap**
+- 💬 Ask me about **Data Structures,MERN, Django, Javascript and AWS**
 
 - 📫 How to reach me **harsheenk.rajpal@gmail.com**
 
