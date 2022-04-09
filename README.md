@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsheen Rajpal</h1>
-<h3 align="center">A full stack developer from India</h3>
+<h3 align="center">A third year student</h3>
 
-- 🔭 I’m currently working  **as a backend intern**
+- 🔭 I’m currently working  **on my DSA**
 
 
-- 💬 Ask me about **Data Structures,MERN, Django, Javascript and AWS**
+- 💬 Ask me about **Data Structures,MERN, Django, Javascript , Azure and Devops**
 
 - 📫 How to reach me **harsheenk.rajpal@gmail.com**
 
